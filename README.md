@@ -55,6 +55,8 @@ python predict.py
 📊 Results
 
 Model training accuracy and loss curves are included in training_history.png
+<img width="4470" height="2970" alt="training_history" src="https://github.com/user-attachments/assets/8df6ddd0-3180-43c5-ba53-6d03568d45ad" />
+
 
 👩‍💻 Author
 
