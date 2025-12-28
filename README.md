@@ -36,7 +36,7 @@ Fruit_Ripeness/
 ## ⚙️ How to Run
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/Fruit_Ripeness.git
+git clone https://github.com/aditikamble123/Fruit_Ripeness.git
 cd Fruit_Ripeness
 Install dependencies
 
@@ -55,8 +55,8 @@ python predict.py
 📊 Results
 
 Model training accuracy and loss curves are included in training_history.png
-img width="4470" height="2970" alt="training_history" src="https://github.com/user-attachments/assets/8df6ddd0-3180-43c5-ba53-6d03568d45ad"
 
+<img width="4470" height="2970" alt="training_history" src="https://github.com/user-attachments/assets/71e03992-aa11-408f-a431-63a62ae75ac2" />
 
 👩‍💻 Author
 
